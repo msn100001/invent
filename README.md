@@ -1,6 +1,6 @@
 # invent
 
-- a Crime Reporter and Missing Person app using 
+-  an app using 
 -- React
 -- Redux
 -- Material
