@@ -1,23 +1,22 @@
 # invent
 
--  an app using 
--- React
--- Redux
--- Material
--- Redux Middlewares
--- Firebase
+  -- Redux
+- an app using
+  -- Material
+  -- Redux Middlewares
+  -- React
 
-## Hosted on 
+## Hosted on
+
+http://localhost:3000 / with npm start
 
 email: a@a.com
-password:123456
-### `npm start`
+password:
 
+### `npm start`
 
 ### `npm test`
 
-
 ### ``
-
 
 ### `npm run build`
