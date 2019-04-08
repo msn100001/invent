@@ -69,7 +69,7 @@ class App extends Component {
     return (
       <div className="App">
         <div>
-          <AppBar title="Inventory App" iconElementRight={navbar} />
+          <AppBar title="t00L Inventory" iconElementRight={navbar} />
         </div>
         {this.props.children}
       </div>
