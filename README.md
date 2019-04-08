@@ -7,7 +7,7 @@
 -- Firebase
 
 ## Hosted on 
-https://react-inventory-app.firebaseapp.com/
+
 email: a@a.com
 password:123456
 ### `npm start`
@@ -16,7 +16,7 @@ password:123456
 ### `npm test`
 
 
-### `npm run build`
+### ``
 
 
 ### `npm run build`
