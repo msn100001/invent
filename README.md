@@ -13,7 +13,7 @@
   -- Material
   -- Redux Middlewares
   -- Firebase
->>>>>>> Stashed changes
+
 
 ## Hosted on
 
@@ -22,9 +22,7 @@ http://localhost:3000 / with npm start
 email: a@a.com
 <<<<<<< Updated upstream
 password: 123456
-=======
-password:
->>>>>>> Stashed changes
+
 
 ### `npm start`
 
